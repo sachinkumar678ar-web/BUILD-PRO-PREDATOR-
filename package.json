@@ -1,0 +1,15 @@
+{
+  "name": "predator-vip-bot",
+  "version": "1.0.0",
+  "description": "Advanced Wingo 1M Prediction AI Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
